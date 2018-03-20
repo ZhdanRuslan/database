@@ -1,0 +1,8 @@
+rest-api
+/pkg/
+/.idea/
+/src/
+
+*.log
+
+*.txt
